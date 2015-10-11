@@ -1,4 +1,6 @@
 Meltingframe::Application.routes.draw do
+  get "wall/write"
+  get "wall/posts"
 	get 'home/home' => 'home#home'
 	get 'ideation/main' => 'ideation#main'
 
