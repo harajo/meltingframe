@@ -765,9 +765,14 @@ div.frame {
 .s1-1_bg {
     background: url(https://40.media.tumblr.com/e701676136a7838757d42acefa607b21/tumblr_nvnc0m1ICU1u47jmpo1_540.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
+.1st_video_section {
+    height: 100%;    
+    padding-top: 200px;
+    overflow: hidden;
+}
 
 .video-background-container{
     position: absolute;
@@ -886,7 +891,7 @@ text-align: center;
 .s3-1_bg {
     background: url(https://40.media.tumblr.com/fed375b4126d01bee8ffc187879ef379/tumblr_nvnewpa15n1u47jmpo1_540.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
 .icon_fix {
@@ -920,7 +925,6 @@ text-align: center;
     padding: none;
     margin: 0px;
     position: relative;
-    
     left: 710px;
 }
 
@@ -949,6 +953,12 @@ text-align: center;
 /* ==========================================================================
    s3-3
    ========================================================================== */
+
+.s3-3_bg {
+    background: url(https://40.media.tumblr.com/39d74cb7f5880360c8c62341da7d8d1b/tumblr_nvuko2VS0K1u7iic0o1_540.png);
+        no-repeat;
+    background-size: 100%;
+}
 
 
 .title-txt-wh {
@@ -984,7 +994,7 @@ text-align: center;
 .s4-1_bg {
     background: url(../images/s4-1/yongman_bg.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
 /* ==========================================================================
@@ -999,7 +1009,7 @@ text-align: center;
 .s4-2_bg {
     background: url(../images/s4-2/children_bg.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
 .subtxt-s4-2 {
@@ -1029,7 +1039,7 @@ text-align: center;
 .s4-3_bg {
     background: url(../images/s4-3/child_bg.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
 .title-txt-s4-3{
@@ -1052,7 +1062,7 @@ text-align: center;
 .s4-4_bg {
     background: url(../images/s4-4/accident_bg.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
 .subtxt-s4-4 {
@@ -1077,7 +1087,7 @@ text-align: center;
 .s5-1_bg {
     background: url(../images/s5-1/infra_bg.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
 .title-txt-wh-s5 {
@@ -1130,7 +1140,7 @@ text-align: center;
 .s5-3_bg {
     background: url(../images/s5-3/school_bg.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
 .title-txt-s5-3{
@@ -1190,7 +1200,7 @@ text-align: center;
 .s6-0_bg {
     background: url(../images/s6-1/newspaper_bg.png)
         no-repeat;
-    background-size: 100%
+    background-size: 100%;
 }
 
 .title-txt-wh-s6 {
