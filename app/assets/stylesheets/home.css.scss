@@ -723,7 +723,6 @@ div.frame {
     top: 0;
     width: 1700px;
     height: 100%;
-    margin-left: -870px;
 }
 
 .gnb .logo {
@@ -768,13 +767,13 @@ div.frame {
     background-size: 100%;
 }
 
-.1st_video_section {
+/*.1st_video_section {
     height: 100%;    
     padding-top: 200px;
     overflow: hidden;
-}
+}*/
 
-/*.video-background-container{
+.video-background-container{
     position: absolute;
     top: 0;
     bottom: 0;
@@ -783,7 +782,7 @@ div.frame {
     height: 100%;
     width: 100%;
     
-}*/
+}
 
 .video-background{
     width:100%;
@@ -956,7 +955,7 @@ text-align: center;
 
 .s3-3_bg {
     background: url(https://40.media.tumblr.com/39d74cb7f5880360c8c62341da7d8d1b/tumblr_nvuko2VS0K1u7iic0o1_540.png);
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
@@ -993,7 +992,7 @@ text-align: center;
 
 .s4-1_bg {
     background: url(../images/s4-1/yongman_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
@@ -1008,7 +1007,7 @@ text-align: center;
 
 .s4-2_bg {
     background: url(../images/s4-2/children_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
@@ -1038,7 +1037,7 @@ text-align: center;
 
 .s4-3_bg {
     background: url(../images/s4-3/child_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
@@ -1061,7 +1060,7 @@ text-align: center;
 
 .s4-4_bg {
     background: url(../images/s4-4/accident_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
@@ -1086,7 +1085,7 @@ text-align: center;
 
 .s5-1_bg {
     background: url(../images/s5-1/infra_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
@@ -1139,7 +1138,7 @@ text-align: center;
 
 .s5-3_bg {
     background: url(../images/s5-3/school_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
@@ -1199,7 +1198,7 @@ text-align: center;
 
 .s6-0_bg {
     background: url(../images/s6-1/newspaper_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
 
@@ -1289,7 +1288,7 @@ text-align: center;
     
 .s7-2_bg {   
     background: url(../images/s7-2/graph_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
 }
     
@@ -1330,7 +1329,7 @@ text-align: center;
     
 .s8-0_bg {
     background: url(../images/s8-0/orange_bg.png)
-        no-repeat;
+    background-repeat: no-repeat;
     background-size: 100%;
     z-index: 3;
 }
